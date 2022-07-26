@@ -1,0 +1,122 @@
+/* Hot Pink Virtual Tours (test 03) CSS stylesheet */
+
+header {
+  color: deeppink;
+  background-color: aquamarine;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  text-shadow: 1px 1px 2px black;
+  text-decoration-thickness: 1px;
+}
+
+.logo-element {
+  color: deeppink;
+  text-decoration: underline;
+  text-decoration-color: black;
+  border: solid black;
+  border-radius: 19px;
+  border-top: 10px;
+  border-bottom: 10px;
+  border-width: 8px;
+  padding-inline: 24px;
+  cursor: pointer;
+}
+
+.pink-element {
+  color: black;
+  background-color: deeppink;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 36px;
+  text-decoration-thickness: 1px;
+  text-decoration-color: white;
+  text-shadow: 1px 1px 2px white;
+  border: solid;
+  border-radius: 19px;
+  padding: 3px;
+  padding-inline: 42px;
+  cursor: pointer;
+}
+
+body {
+  color: white;
+  background-color: aquamarine;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 22px;
+  text-shadow: 1px 1px 2px white;
+}
+
+fieldset {
+  color: black;
+  border: solid black 6px;
+  border-radius: 19px;
+}
+
+legend {
+  color: deeppink;
+  background-color: rgb(227, 200, 20);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 24px;
+  text-shadow: 1px 1px 2px black;
+  border: solid black;
+  border-radius: 19px;
+  border-top: 7px;
+  border-bottom: 7px;
+  border-width: 8px;
+  margin: 15px;
+  padding-inline: 20px;
+}
+
+.legend-offset {
+  text-align: right;
+  margin: 15px;
+}
+
+h1 {
+  color: deeppink;
+}
+
+h4 {
+  color: black;
+  text-decoration: underline;
+  text-decoration-color: white;
+  text-decoration-thickness: 1px;
+}
+
+p {
+  color: black;
+  font-size: 22px;
+}
+
+.links {
+  color: deeppink;
+  text-decoration: underline;
+  text-decoration-color: white;
+  text-decoration-thickness: 1px;
+}
+
+summary {
+  color: deeppink;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-decoration-color: black;
+  text-shadow: 1px 1px 1px black;
+  cursor: pointer;
+}
+
+button {
+  color: black;
+  background-color: deeppink;
+  font-size: 18px;
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-color: white;
+  text-shadow: 1px 1px 2px white;
+  display: inline-block;
+  border: solid;
+  border-radius: 19px;
+  padding: 1px 42px;
+  cursor: pointer;
+}
+
+.contact-button {
+  font-size: 14px;
+}
